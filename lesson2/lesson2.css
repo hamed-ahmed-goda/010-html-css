@@ -1,0 +1,109 @@
+.uber{
+    color: white;
+    background-color: black;
+    border: none;
+    cursor: pointer;
+    width: 120px;
+    height: 40px;
+
+}
+.amazon{
+    background-color: rgb(255,216,20);
+    color: black;
+    border: none;
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.github{
+    background-color: rgb(46,164,79);
+    color: white;
+    border:none ;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.bootstrap_1{
+    background-color: rgb(121,82,179);
+    color: white;
+    font-weight: bold;
+    width: 120px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    margin-right: 10px;
+}
+.bootstrap_2{
+    background-color:white;
+    color: rgb(108, 117, 125);
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(108, 117, 125);
+}
+.linkedin_1{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    height: 40px;
+    width: 240px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+.linkedin_2{
+    background-color: white;
+    color: rgb(10, 102, 194);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(10, 102, 194);
+    height: 40px;
+    width: 80px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.amazon_link {
+    color: rgb(0, 113, 133);
+  }
+
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .price {
+    color: rgb(0, 136, 0);
+    font-weight: bold;
+  }
+
+  .add_to_cart_button {
+    background-color: rgb(249, 217, 76);
+    border: none;
+    height: 30px;
+    width: 110px;
+    border-radius: 15px;
+    margin-right: 8px;
+    cursor: pointer;
+  }
+
+  .buy_now_button {
+    background-color: rgb(255, 164, 28);
+    border: none;
+    height: 30px;
+    width: 110px;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+
